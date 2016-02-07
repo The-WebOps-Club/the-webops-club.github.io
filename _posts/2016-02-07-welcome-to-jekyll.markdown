@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Join the WebOps Club!!"
-date:   2016-02-07 18:56:08
+date:   2016-02-07
+categories: update
 ---
 Send your join request to [Facebook Group][fb-group].
 
