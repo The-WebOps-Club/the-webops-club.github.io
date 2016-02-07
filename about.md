@@ -5,5 +5,8 @@ permalink: /about/
 ---
 # Head
 Abhishek Shandilya
-[Email][abhishek.sandy@gmail.com]
-[Github][github.com/abhishandy]
+[Email][email]
+[Github][github]
+
+[github]:	[github.com/abhishandy]
+[email]:	[abhishek.sandy@gmail.com]
