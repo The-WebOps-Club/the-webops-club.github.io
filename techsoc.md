@@ -3,14 +3,14 @@ layout: page
 title: TechSoc
 permalink: /techsoc
 ---
-##Ride on Rails
+## Ride on Rails
 
 WebOps event of TechSoc 2015-16
 
-##Aim
+## Aim
 Develop a Ruby-Rails application for respective hostels.
 
-##Problem Statement
+## Problem Statement
 
 The web-application should have the following pages with **10 points** for each:
 
@@ -34,27 +34,27 @@ The web-application should have the following backend features:
 
 **Maximum points: 10*4 + 30 = 70**
 
-##Team Composition
+## Team Composition
 1. Team of maximum 4 and minimum 2 members.
 2. Members can be from different hostels
 3. Register your teams by filling this form before
 
-##Tools Required
+## Tools Required
 
-###Ubuntu 14.04 LTS
+### Ubuntu 14.04 LTS
 Preferred OS for web development. Create a partition in the hard disk and install it using Ubuntu bootable USB/CD.
 
-###Rails
+### Rails
 Ruby version: ___
 
 Rails version: ___
 
 Follow the instructions for installing RVM, Ruby and Rails on ____
 
-###Git
+### Git
 Install GIT using `sudo apt-get install git` and create account in [GitHub.com](https://github.com) for collaboration and submission
 
-###Heroku
+### Heroku
 Install heroku-toolbelt by following instructions on ____ and create account in [Heroku.com](https://heroku.com) for deployment and submission
 
 ##Submission
