@@ -78,3 +78,6 @@ Abhishek Shandilya
 
 - thewebopsclubiitm@gmail.com
 - Mobile: 98842999211
+
+## Help
+[ebook by Michael Hartl](http://railstutorial.com/book)
