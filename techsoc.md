@@ -56,7 +56,7 @@ Rails version: >4.0
 Follow the instructions for installing RVM, Ruby and Rails on [rvm.io](http://rvm.io/)
 
 ### Git
-Install GIT using `sudo apt-get install git` and create account in [GitHub.com](https://github.com) for collaboration and submission
+Install GIT using `sudo apt-get install git` or [git-scm](http://www.git-scm.com/) and create account in [GitHub.com](https://github.com) for collaboration and submission
 
 ### Heroku
 Install [heroku-toolbelt](http://toolbelt.heroku.com/) and create account in [Heroku.com](https://heroku.com) for deployment and submission
