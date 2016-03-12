@@ -36,7 +36,8 @@ The web-application should have the following features:
 8. Contact page: **10 points**
 - Your team details (name, hostel, roll no, email and mobile no.)
 9. Custom title for every page: **5 points**
-- Format should be <page-name> | <site-name>
+- Format should be &lt;page-name&gt; | &lt;site-name&gt;
+- example: Gallery | Godavari Hostel
 
 **Maximum points: 105**
 
