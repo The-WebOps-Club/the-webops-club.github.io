@@ -3,7 +3,7 @@ layout: page
 title: TechSoc
 permalink: /techsoc
 ---
-## Ride on Rails
+## Ruby on Rails
 
 WebOps event of TechSoc 2015-16
 
@@ -39,6 +39,8 @@ The web-application should have the following features:
 - Format should be <page-name> | <site-name>
 
 **Maximum points: 105**
+
+PS: Dummy data can be used to fill the pages
 
 ## Team Composition
 1. Team of maximum 2 members.
