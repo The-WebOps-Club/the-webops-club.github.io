@@ -27,8 +27,8 @@ The web-application should have the following features:
 - required field: name and roll no
 - optional fields: hostel, email
 6. User login with roll number: **20 points**
-- user fields required to login: rollno and password (**15 points**)
-- format validation for roll no (**5 points**)
+- user fields required to login: rollno and password (**10 points**)
+- format validation for roll no (**10 points**)
 7. Complaints log: **20 points**
 - Any logged in user should be able to lodge a complaint (**5 points**)
 - All complains should be listed in complaints page (**5 points**)
