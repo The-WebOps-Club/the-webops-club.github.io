@@ -23,15 +23,22 @@ The web-application should have the following features:
 - List of *at least 10 hostellers* with their names, roll number and room number
 4. Inter-Hostel Events page: **10 points**
 - Stats of performance of hostel teams in *at least 5 events* from either Techsoc, LitSoc or Schroeter
-5. User login with roll number: **20 points**
-6. Complaints log: **20 points**
+5. Sign up page for new users: **10 points**
+- required field: name and roll no
+- optional fields: hostel, email
+6. User login with roll number: **20 points**
+- user fields required to login: rollno and password (**15 points**)
+- format validation for roll no (**5 points**)
+7. Complaints log: **20 points**
 - Any logged in user should be able to lodge a complaint (**5 points**)
 - All complains should be listed in complaints page (**5 points**)
 - Executive body members should be able to mark complaints as resolved (**10 points**)
-7. Contact page: **10 points**
+8. Contact page: **10 points**
 - Your team details (name, hostel, roll no, email and mobile no.)
+9. Custom title for every page: **5 points**
+- Format should be <page-name> | <site-name>
 
-**Maximum points: 80**
+**Maximum points: 105**
 
 ## Team Composition
 1. Team of maximum 2 members.
@@ -52,16 +59,16 @@ Install GIT using `sudo apt-get install git` and create account in [GitHub.com](
 ### Heroku
 Install [heroku-toolbelt](http://toolbelt.heroku.com/) and create account in [Heroku.com](https://heroku.com) for deployment and submission
 
-##Submission
-Mail the links to the coordinator by 12:59 PM
+## Submission
+Mail the links to your GitHub public repo and Heroku app to the coordinator by 12:59 PM
 
 Penalty for late submission:
 
-1. Submission between 13:00 to 13:59: 	1 points per 5 minutes
-2. Submission between 14:00 to 14:59: 	1 points per minute
-3. Submission after 14:59:				Disqulaified
+1. Submission between 13:00 to 13:59: 1 points per 5 minutes
+2. Submission between 14:00 to 14:59: 1 points per minute
+3. Submission after 14:59: Disqulaified
 
-##Coordinator
+## Coordinator
 Contact him for any clarification in the problem statement:
 
 Abhishek Shandilya
