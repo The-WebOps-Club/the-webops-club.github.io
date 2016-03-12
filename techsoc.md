@@ -51,7 +51,7 @@ Ruby version: >2.0
 
 Rails version: >4.0
 
-Follow the instructions for installing RVM, Ruby and Rails on [rvm.io](rvm.io)
+Follow the instructions for installing RVM, Ruby and Rails on [rvm.io](http://rvm.io/)
 
 ### Git
 Install GIT using `sudo apt-get install git` and create account in [GitHub.com](https://github.com) for collaboration and submission
