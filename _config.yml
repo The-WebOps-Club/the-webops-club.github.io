@@ -2,9 +2,9 @@
 title: The WebOps Club
 email: thewebopsclubiitm@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Group of web-developers in IIT Madras.
+  Group of programmers at IIT Madras.
 # baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://the-webops-club.github.io" # the base hostname & protocol for your site
+url: "https://the.webops.club" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username:  the-webops-club
 
