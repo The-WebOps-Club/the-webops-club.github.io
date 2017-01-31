@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The WebOps Club | Introductory Session"
+comments: true
 date:   2017-01-30 00:01:00 +0530
 categories: update
 ---
