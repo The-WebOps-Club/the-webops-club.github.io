@@ -9,7 +9,7 @@ Hello there!
 
 Greetings from The WebOps Club, CFI!
 
-We are conducting a workshop on the Basics of WebOps | HTML/CSS/JS. This will be an hour long session where we introduce you to the basic building blocks of webapps.
+We are conducting a workshop on the Basics of WebOps HTML/CSS/JS. This will be an hour long session where we introduce you to the basic building blocks of webapps.
 
 This session is open for all.
 
