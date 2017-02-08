@@ -18,7 +18,8 @@ But, for students who have applied for **WebOps Club projects through CFI Club P
 All SIP students should also attend the session.
 
 _When: 8 PM, 8th Feb 2017, Wednesday_  
-_Where: CRC or ED108 (will be confirmed by 6 PM on Wednesday)_
+_Where: CRC203_
 
 **PS: Bring your laptops fully charged with Google Chrome or Chromium or Opera Browser (latest versions) installed.**
 
+Edit: The venue has been confirmed as CRC203
