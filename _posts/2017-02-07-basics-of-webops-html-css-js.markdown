@@ -9,7 +9,8 @@ Hello there!
 
 Greetings from The WebOps Club, CFI!
 
-Thank you for turning up for the session. Here are some resources to guide yourself into more HTML CSS and JS.
+Thank you for turning up for the session. Here are some resources to guide yourself into more HTML CSS and JS:
+
 
 - [HTML Dog][htmldog] has some good beginner tutorials, examples and references for HTML, CSS and JavaScript
 - [W3Schools][w3schools] provides good reference for HTML tags, CSS properties and JS syntax
