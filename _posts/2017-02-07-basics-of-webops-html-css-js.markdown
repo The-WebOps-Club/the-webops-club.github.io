@@ -33,6 +33,7 @@ Thank you for turning up for the session. Here are some resources to guide yours
 
 ## Assignment
 The assignment for next workshop will be creating your own personal website and hosting it on GitHub.
+
 - Use all the HTML CSS and JS skills you have learnt to create your profile page
 - You can use our [How-to guide on creating and hosting your own personal website][webopsclub-personal-website] for instructions on hosting your wesbite on GitHub
 - You can reuse and copy-paste code from internet, but make sure that you know what you are doing
