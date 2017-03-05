@@ -10,7 +10,7 @@ title: The WebOps Club
 email: thewebopsclubiitm@gmail.com
 
 #write html inside the double quotes to display in jumbotron
-description: "<h3>Hello, world!</h3><h1>The WebOps Club</h1><h3>Group of Developers at IIT Madras</h3>Come join us!"
+description: "<h3>Hello, world!</h3><h1>The WebOps Club</h1><h3>Group of Developers at IIT Madras</h3>Come <a href=https://groups.google.com/forum/#!forum/webops-club-iitm/join target=_blank>join us!</a>"
 
 
 
