@@ -25,10 +25,10 @@ Why version control?
 
 Prerequisites: Bring some LaTeX / code files (any programming language) and GIT installed on your fully charged laptop.
 
-[Installing GIT][installing-git]
-- [Linux][linux-git]
-- [MacOS][macos-git]
-- [Windows][windows-git]
+[Installing GIT][installing-git]{"target="_blank"}
+- [Linux][linux-git]{"target="_blank"}
+- [MacOS][macos-git]{"target="_blank"}
+- [Windows][windows-git]{"target="_blank"}
 
 **Those who already know GIT are welcome to volunteer and help out those who attend the workshop**. Please choose volunteer in the attending as dropdown while filling the form.
 
@@ -39,5 +39,5 @@ Deadline to fill the form: **Tuesday March 7th 2017 1159 hrs**
 [why-vcs]: https://www.git-tower.com/learn/git/ebook/en/desktop-gui/basics/why-use-version-control
 [installing-git]: https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 [linux-git]: https://git-scm.com/download/linux
-[macos-git]:: https://git-scm.com/download/mac
+[macos-git]: https://git-scm.com/download/mac
 [windows-git]: https://git-for-windows.github.io/
