@@ -23,7 +23,7 @@ Why version control?
 
 - Date: **Wednesday, March 8th 2017**
 - Time: **8PM-9PM**
-- Venue: Will be announced depending on number of people register
+- Venue: Will be announced depending on number of registrations
 
 Prerequisites: Bring some LaTeX / code files (any programming language) and GIT installed on your fully charged laptop.
 
