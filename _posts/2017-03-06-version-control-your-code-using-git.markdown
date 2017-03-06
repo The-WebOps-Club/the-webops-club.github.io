@@ -34,7 +34,7 @@ Prerequisites: Bring some LaTeX / code files (any programming language) and GIT 
 
 **Those who already know GIT are welcome to volunteer and help out those who attend the workshop**. Please choose volunteer in the attending as dropdown while filling the form.
 
-Deadline for registering: **Tuesday March 7th 2017 1159 hrs**
+Deadline for registering: **Tuesday March 7th 2017 2359 hrs**
 
 [register-link]: https://docs.google.com/forms/d/e/1FAIpQLScVRP2xrXqGM9zEkDEOWgwUgFTtF3XBHDjV978xV8tY3X0xcA/viewform?usp=sf_link
 [git-scm]: https://git-scm.com/
