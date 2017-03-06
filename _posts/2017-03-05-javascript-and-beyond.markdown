@@ -9,7 +9,7 @@ categories: workshop
 You can find the live streamed video on [YouTube][youtube-link]{:target="_blank"}. There are many long pauses, and no audio. But, all work is shown in the video, in case you need to look back at something.
 
 - Here is the [form][projects-form]{:target="_blank"} to submit your project preferences: You'll have to login to your smail account to fill in the form.
-- Deadline to fill the form: **Monday, 6th March 2017 1159 hrs.**
+- Deadline to fill the form: **Monday, 6th March 2017 2359 hrs.**
 
 References for some stuff:
 
