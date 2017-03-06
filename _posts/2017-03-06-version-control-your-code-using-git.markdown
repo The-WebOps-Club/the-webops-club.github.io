@@ -17,7 +17,8 @@ Why version control?
 3. Restoring previous versions
 4. Understanding what happened
 5. Backup
-[Read more][why-vcs]{"target="_blank"}
+
+[Read more on Why VCS][why-vcs]{:target="_blank"}
 
 - Date: **Wednesday, March 8th 2017**
 - Time: **8PM-9PM**
@@ -25,14 +26,14 @@ Why version control?
 
 Prerequisites: Bring some LaTeX / code files (any programming language) and GIT installed on your fully charged laptop.
 
-[Installing GIT][installing-git]{"target="_blank"}
-- [Linux][linux-git]{"target="_blank"}
-- [MacOS][macos-git]{"target="_blank"}
-- [Windows][windows-git]{"target="_blank"}
+[Installing GIT][installing-git]{:target="_blank"}
+- [Linux][linux-git]{:target="_blank"}
+- [MacOS][macos-git]{:target="_blank"}
+- [Windows][windows-git]{:target="_blank"}
 
 **Those who already know GIT are welcome to volunteer and help out those who attend the workshop**. Please choose volunteer in the attending as dropdown while filling the form.
 
-Deadline to fill the form: **Tuesday March 7th 2017 1159 hrs**
+Deadline for registering: **Tuesday March 7th 2017 1159 hrs**
 
 [register-link]: https://docs.google.com/forms/d/e/1FAIpQLScVRP2xrXqGM9zEkDEOWgwUgFTtF3XBHDjV978xV8tY3X0xcA/viewform?usp=sf_link
 [git-scm]: https://git-scm.com/
