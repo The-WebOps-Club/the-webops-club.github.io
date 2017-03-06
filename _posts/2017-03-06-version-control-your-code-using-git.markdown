@@ -5,7 +5,7 @@ comments:   true
 date:       2017-03-06 12:30:00 +0530
 categories: workshop
 ---
-<a href="http://www.google.com/calendar/event?action=TEMPLATE&text=Version%20Control%20your%20Code%20using%20GIT&dates=20170308T143000Z/20170308T153000Z&details=Introduction%20to%20version%20control%20using%20GIT&location=IIT%20Madras&trp=false&sprop=&sprop=name:" target="_blank" rel="nofollow">Add to my calendar</a>
+<a href="http://www.google.com/calendar/event?action=TEMPLATE&text=Version%20Control%20your%20Code%20using%20GIT&dates=20170308T143000Z/20170308T153000Z&details=Introduction%20to%20version%20control%20using%20GIT&location=IIT%20Madras&trp=false&sprop=&sprop=name:" target="_blank" rel="nofollow"><button class="btn btn-info"><img src="{{ site.url }}/assets/club-logo-1.jpg"/>Add to my calendar</button></a>
 
 [Register][register-link]{:target="_blank"} for a workshop on Version Control using GIT.
 
