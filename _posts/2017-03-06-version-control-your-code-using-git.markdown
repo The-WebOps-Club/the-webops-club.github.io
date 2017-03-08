@@ -5,6 +5,9 @@ comments:   true
 date:       2017-03-06 12:30:00 +0530
 categories: workshop
 ---
+
+Watch on [YouTube][youtube-link]!
+
 <a href="http://www.google.com/calendar/event?action=TEMPLATE&text=Version%20Control%20your%20Code%20using%20GIT&dates=20170308T143000Z/20170308T153000Z&details=Introduction%20to%20version%20control%20using%20GIT&location=ED207&trp=false&sprop=&sprop=name:" target="_blank" rel="nofollow"><button class="btn btn-info"><img height="32px" src="{{ site.url }}/assets/gcal.png"/> Add to my calendar</button></a>
 
 [Register][register-link]{:target="_blank"} for a workshop on Version Control using GIT.
@@ -43,3 +46,4 @@ Deadline for registering: **Tuesday March 7th 2017 2359 hrs**
 [linux-git]: https://git-scm.com/download/linux
 [macos-git]: https://git-scm.com/download/mac
 [windows-git]: https://git-for-windows.github.io/
+[youtube-link]: https://www.youtube.com/watch?v=hSmbqC-p7MY
