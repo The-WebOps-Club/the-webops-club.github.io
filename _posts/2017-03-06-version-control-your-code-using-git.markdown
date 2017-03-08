@@ -5,7 +5,7 @@ comments:   true
 date:       2017-03-06 12:30:00 +0530
 categories: workshop
 ---
-<a href="http://www.google.com/calendar/event?action=TEMPLATE&text=Version%20Control%20your%20Code%20using%20GIT&dates=20170308T143000Z/20170308T153000Z&details=Introduction%20to%20version%20control%20using%20GIT&location=IIT%20Madras&trp=false&sprop=&sprop=name:" target="_blank" rel="nofollow"><button class="btn btn-info"><img height="32px" src="{{ site.url }}/assets/gcal.png"/> Add to my calendar</button></a>
+<a href="http://www.google.com/calendar/event?action=TEMPLATE&text=Version%20Control%20your%20Code%20using%20GIT&dates=20170308T143000Z/20170308T153000Z&details=Introduction%20to%20version%20control%20using%20GIT&location=ED207&trp=false&sprop=&sprop=name:" target="_blank" rel="nofollow"><button class="btn btn-info"><img height="32px" src="{{ site.url }}/assets/gcal.png"/> Add to my calendar</button></a>
 
 [Register][register-link]{:target="_blank"} for a workshop on Version Control using GIT.
 
@@ -23,7 +23,7 @@ Why version control?
 
 - Date: **Wednesday, March 8th 2017**
 - Time: **8PM-9PM**
-- Venue: Will be announced depending on number of registrations
+- Venue: **ED207**
 
 Prerequisites: Bring some LaTeX / code files (any programming language) and GIT installed on your fully charged laptop.
 
