@@ -5,6 +5,9 @@ comments:   true
 date:       2017-03-08 12:30:00 +0530
 categories: workshop
 ---
+
+Please submit your feedback [here][feedback-link].
+
 <a href="http://www.google.com/calendar/event?action=TEMPLATE&text=Ethical Hacking Worksop Breaking Android Apps&dates=20170312T123000Z/20170312T143000Z&details=First of the ethical hacking and penetration testing series&location=CRC103&trp=false&sprop=&sprop=name:" target="_blank" rel="nofollow"><button class="btn btn-info"><img height="32px" src="{{ site.url }}/assets/gcal.png"/> Add to my calendar</button></a>
 
 The WebOps Club, CFI is conducting a series of workshops on Ethical Hacking.
@@ -20,3 +23,5 @@ Venue: **CRC103**
 _Please note that this is a hands on 2 hour workshop where you will be required to come with a laptop and an android phone. It will be an introductory session, hence anyone who is interested is welcome._
 
 This is the first of the series on penetration testing and ethical hacking.
+
+[feedback-link]:https://docs.google.com/forms/d/e/1FAIpQLSce1uRcF9BxIChvAhULB66GgW9dwB18EXQ-XhxBehA1zM8Jgw/viewform?usp=sf_link
