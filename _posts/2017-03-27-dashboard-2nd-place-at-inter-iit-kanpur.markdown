@@ -13,4 +13,6 @@ Contribute here: https://github.com/The-WebOps-Club/insti-dashboard
 
 Thanks to Chinni Chaitanya, Minu Aswanth, Aparna Mohan, Shahidh K Muhammed for working on the initial version.
 
+![Dashboard Screenshot]({{ site.url }}/uploads/dashboard.png)
+
 [inter-iit]: http://interiit.tech
