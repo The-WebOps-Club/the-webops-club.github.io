@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Won 2nd @ Inter IIT Tech Meet"
+title:      "Winners @ 5th Inter IIT Tech Meet"
 comments:   true
 date:       2017-03-27 10:20:00 +0530
 categories: news
