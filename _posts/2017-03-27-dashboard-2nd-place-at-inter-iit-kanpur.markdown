@@ -12,10 +12,16 @@ Dashboard has been a envisioned at the club over a year ago and is coming to rea
 
 Contribute to dashboad on [GitHub][github-repo].
 
-Thanks to Chinni Chaitanya, Minu Aswanth, Aparna Mohan, Shahidh K Muhammed, Sasi for working on the initial version.
+Thanks to [shahidhk][shahidhk], [chinnichaitanya][chinnichaitanya], [laceup][laceup], [sasivarnan619][sasivarnan619] and [minu-aswanth][minu-aswanth] for working on the initial version.
 
 ![Dashboard Screenshot]({{ site.url }}/uploads/dashboard.png){:width="100%"}
 
 [inter-iit]: http://interiit.tech
 [github-repo]: https://github.com/The-WebOps-Club/insti-dashboard
 [iit-kanpur]: http://iitk.ac.in/
+
+[shahidhk]: https://github.com/shahidhk
+[chinnichaitanya]: https://github.com/chinnichaitanya
+[laceup]: https://github.com/laceup
+[sasivarnan619]: https://github.com/sasivarnan619
+[minu-aswanth]: https://github.com/minu-aswanth
