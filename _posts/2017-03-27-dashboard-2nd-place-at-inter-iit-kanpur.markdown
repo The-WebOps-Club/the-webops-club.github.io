@@ -7,11 +7,12 @@ categories: news
 ---
 
 The WebOps Club, CFI, IIT Madras has bagged 2nd place for a competition to create campus wide dashboard at The [5th Inter IIT Tech Meet][inter-iit] held at [IIT Kanpur][iit-kanpur], on 26th March 2017.
+
 Dashboard has been a envisioned at the club over a year ago and is coming to realisation now. We have a great team working on this. We will be launching this across insti with administration's help over the coming month.
 
-Contribute to dashboad on [GitHub][github-repo]
+Contribute to dashboad on [GitHub][github-repo].
 
-Thanks to Chinni Chaitanya, Minu Aswanth, Aparna Mohan, Shahidh K Muhammed for working on the initial version.
+Thanks to Chinni Chaitanya, Minu Aswanth, Aparna Mohan, Shahidh K Muhammed, Sasi for working on the initial version.
 
 ![Dashboard Screenshot]({{ site.url }}/uploads/dashboard.png){:width="100%"}
 
