@@ -12,3 +12,5 @@ Dashboard has been a envisioned at the club over a year ago and is coming to rea
 Contribute here: https://github.com/The-WebOps-Club/insti-dashboard
 
 Thanks to Chinni Chaitanya, Minu Aswanth, Aparna Mohan, Shahidh K Muhammed for working on the initial version.
+
+[inter-iit]: http://interiit.tech
