@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Ethical Hacking Worksop - Breaking Android Apps"
+title:      "Ethical Hacking Workshop - Breaking Android Apps"
 comments:   true
 date:       2017-03-08 12:30:00 +0530
 categories: workshop
