@@ -10,7 +10,7 @@ The WebOps Club, CFI, IIT Madras has bagged 2nd place for a competition to creat
 
 Dashboard has been a envisioned at the club over a year ago and is coming to realisation now. We have a great team working on this. We will be launching this across insti with administration's help over the coming month.
 
-Contribute to dashboad on [GitHub][github-repo].
+Contribute to dashboard on [GitHub][github-repo].
 
 Thanks to [shahidhk][shahidhk], [chinnichaitanya][chinnichaitanya], [laceup][laceup], [sasivarnan619][sasivarnan619] and [minu-aswanth][minu-aswanth] for working on the initial version.
 
